@@ -1,0 +1,2 @@
+# Exercise.Js
+Geometric calculator
